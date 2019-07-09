@@ -27,9 +27,9 @@
      inkscape:window-height="693"
      id="namedview33"
      showgrid="false"
-     inkscape:zoom="20.85965"
+     inkscape:zoom="29.5"
      inkscape:cx="8"
-     inkscape:cy="9.3160173"
+     inkscape:cy="7.3984396"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -124,6 +124,35 @@
        x2="25.132275"
        y1="0.98520643"
        x1="25.132275" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1028"
+       id="linearGradient1083"
+       x1="51"
+       y1="172.175"
+       x2="297.5"
+       y2="172.175"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient1028"
+       id="linearGradient1030"
+       x1="32.724728"
+       y1="4.8638339"
+       x2="32.724728"
+       y2="55.101532"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3106154,0,0,2.3106154,-65.939692,-62.634367)" />
+    <linearGradient
+       id="linearGradient1028">
+      <stop
+         style="stop-color:#64baff;stop-opacity:1"
+         offset="0"
+         id="stop1024" />
+      <stop
+         style="stop-color:#3689e6;stop-opacity:1"
+         offset="1"
+         id="stop1026" />
+    </linearGradient>
   </defs>
   <metadata
      id="metadata3068">
@@ -167,22 +196,23 @@
   <g
      id="g967"
      transform="matrix(0.02352773,0,0,0.02352773,3.900293,3.9491131)"
-     style="fill:#659ad2;fill-opacity:1">
+     style="fill:url(#linearGradient1083);fill-opacity:1.0">
 	<g
-   id="g1008">
+   id="g1008"
+   style="fill-opacity:1.0;fill:url(#linearGradient1083)">
   <path
      id="path957"
      d="m 153,274.175 c -56.243,0 -102,-45.757 -102,-102 0,-56.243 45.757,-102 102,-102 36.292,0 70.139,19.53 88.331,50.968 l -44.143,25.544 C 188.083,130.951 171.15,121.175 153,121.175 c -28.122,0 -51,22.878 -51,51 0,28.121 22.878,51 51,51 18.152,0 35.085,-9.776 44.191,-25.515 l 44.143,25.543 c -18.192,31.441 -52.04,50.972 -88.334,50.972 z"
      inkscape:connector-curvature="0"
-     style="fill:#659ad2;fill-opacity:1" />
+     style="fill:url(#linearGradient1083);fill-opacity:1.0" />
   <polygon
      id="polygon961"
      points="232.334,189.175 243.666,189.175 243.666,177.841 255,177.841 255,166.508 243.666,166.508 243.666,155.175 232.334,155.175 232.334,166.508 221,166.508 221,177.841 232.334,177.841 "
-     style="fill:#659ad2;fill-opacity:1" />
+     style="fill:url(#linearGradient1083);fill-opacity:1.0" />
   <polygon
      id="polygon965"
      points="274.834,189.175 286.166,189.175 286.166,177.841 297.5,177.841 297.5,166.508 286.166,166.508 286.166,155.175 274.834,155.175 274.834,166.508 263.5,166.508 263.5,177.841 274.834,177.841 "
-     style="fill:#659ad2;fill-opacity:1" />
+     style="fill:url(#linearGradient1083);fill-opacity:1.0" />
 </g>
 
 </g>
